@@ -74,8 +74,23 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+TO READ HEAD AND TAIL VALUES
 
+<img width="157" height="126" alt="image" src="https://github.com/user-attachments/assets/bdce4349-7825-47a6-a267-7f3de8cf2fe1" />
+
+<img width="192" height="130" alt="319848309-ea9cb89a-f4b8-473d-84b8-1f92b2ee64a2" src="https://github.com/user-attachments/assets/a4f5fcce-9f9e-4cbe-aeeb-7561a9333718" />
+
+Compare Dataset
+
+<img width="631" height="487" alt="319848327-9d7409fe-cb21-4727-9bd1-365c85ab9f1a" src="https://github.com/user-attachments/assets/9037a381-8872-4a46-a6c0-3e89f7f5c55d" />
+
+Predicted Value
+
+<img width="756" height="72" alt="319848353-44b39961-15f3-4ef1-b64f-01bd7c4fff12" src="https://github.com/user-attachments/assets/57e0075a-cae2-471f-9dbf-ed0d7697e61f" />
+
+Graph For Training Set
+
+<img width="793" height="566" alt="319852122-be5ed2ff-790c-4d0d-84c0-a230f9f4d2df" src="https://github.com/user-attachments/assets/3fab46d9-222e-493e-9204-6e655d427b01" />
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
